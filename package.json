@@ -30,10 +30,12 @@
     "@semantic-release/git": "10.0.1",
     "@types/node": "^18.7.13",
     "arg": "^5.0.2",
-    "esbuild": "^0.15.5",
     "semantic-release": "18.0.0"
   },
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "esbuild": "^0.15.5"
   }
 }
