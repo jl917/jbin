@@ -1,3 +1,10 @@
+# [1.0.0-next.3](https://github.com/jl917/jbin/compare/v1.0.0-next.2...v1.0.0-next.3) (2022-08-27)
+
+
+### Bug Fixes
+
+* esbuild 오류 수정 ([7299aeb](https://github.com/jl917/jbin/commit/7299aeb1b35f9db2d85ab3cdfd0684c07970890b))
+
 # [1.0.0-next.2](https://github.com/jl917/jbin/compare/v1.0.0-next.1...v1.0.0-next.2) (2022-08-27)
 
 
