@@ -1,1 +1,1 @@
-type type = 'ts' | 'js'
+type type = 'ts' | 'js';
