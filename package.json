@@ -1,0 +1,39 @@
+{
+  "name": "@julong/jbin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "bin": {
+    "jbin": "dist/index.js",
+    "next_jbin": "dist/index_next.js"
+  },
+  "scripts": {
+    "build": "node scripts/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jl917/jbin.git"
+  },
+  "keywords": [],
+  "author": "jl917",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jl917/jbin/issues"
+  },
+  "homepage": "https://github.com/jl917/jbin#readme",
+  "type": "commonjs",
+  "files": [
+    "dist"
+  ],
+  "devDependencies": {
+    "@semantic-release/changelog": "6.0.1",
+    "@semantic-release/git": "10.0.1",
+    "@types/node": "^18.7.13",
+    "arg": "^5.0.2",
+    "esbuild": "^0.15.5",
+    "semantic-release": "18.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
