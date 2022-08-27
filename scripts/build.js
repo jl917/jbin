@@ -15,7 +15,7 @@ esbuild.buildSync({
   write: true,
   platform: 'node',
   target: ['node14'],
-  // external: ['esbuild'],
+  external: ['esbuild'],
   outfile: outfileMap[branch] || package.bin.jbin,
   minify: true,
   banner: { js: '#!/usr/bin/env node' },
