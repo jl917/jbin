@@ -1,3 +1,10 @@
+# [1.0.0-next.2](https://github.com/jl917/jbin/compare/v1.0.0-next.1...v1.0.0-next.2) (2022-08-27)
+
+
+### Bug Fixes
+
+* external 오류 수정 ([b383c43](https://github.com/jl917/jbin/commit/b383c43d601221ed9d88885abe0f244ac9f8c1fd))
+
 # 1.0.0-next.1 (2022-08-27)
 
 
